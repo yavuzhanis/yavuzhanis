@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [CelticsWeb](https://yavuzhanis.github.io/bostonCeltic/index.html)
 
-- 👨‍💻 All of my projects are available at [https://yavuzhanis.github.io/yavuzhanBlog/](https://yavuzhanis.github.io/yavuzhanBlog/)
+- 👨‍💻 All of my projects are available at (https://myportfolio-bice-ten.vercel.app/)
 
 - 📝 I regularly write articles on [https://yavuzhanis.github.io/yavuzhanBlog/](https://yavuzhanis.github.io/yavuzhanBlog/)
 
