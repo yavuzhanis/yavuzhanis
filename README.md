@@ -5,23 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/yavuzhanis41" target="blank"><img src="https://img.shields.io/twitter/follow/yavuzhanis41?logo=twitter&style=for-the-badge" alt="yavuzhanis41" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix](https://yavuzhanis.github.io/NetflixWeb/)
+- 🔭 I’m currently working on **Python-Django**
 
 - 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on [E-commerce](https://yavuzhanis.github.io/E-commerce/)
 
-- 🤝 I’m looking for help with [CelticsWeb](https://yavuzhanis.github.io/bostonCeltic/index.html)
-
-- 👨‍💻 All of my projects are available at (https://myportfolio-bice-ten.vercel.app/)
-
-- 📝 I regularly write articles on [https://yavuzhanis.github.io/yavuzhanBlog/](https://yavuzhanis.github.io/yavuzhanBlog/)
+- 👨‍💻 All of my projects are available at (https://yavuzhanis.vercel.app)
 
 - 💬 Ask me about **react.js,Django,Pyqt6,Python,Javascript**
 
 - 📫 How to reach me **isyavuzhan3@gmail.com**
-
-- 📄 Know about my experiences [https://yavuzhanis.github.io/E-commerce/](https://yavuzhanis.github.io/E-commerce/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
