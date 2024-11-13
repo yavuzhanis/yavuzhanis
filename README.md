@@ -2,11 +2,11 @@
 Junior Full Stack Developer from TURKEY,<br>-Tech-savvy full-stack developer with hands-on experience building a wide range of web and desktop applications <br>as well as robust solutions using intermediate programming languages and tools.<br>-Skilled at designing UI components, applications, and web pages with interactive, <br>user-friendly interfaces using various front-end technologies and React.<br>-Successful freelance career developing and designing small to mid-sized projects to meet diverse client needs globally.<br>-Constantly learning new technologies through online courses and regular coding practice to expand skills.<br>-Capable of managing rich web and client-server applications, website, desktop applications, and databases.	
 
 # Projects Links 👨🏻‍💻 : 
-  -e-commerceBig => https://e-commerce-two-psi-59.vercel.app
-  -e-commerce =>    https://minikbey.vercel.app
-  -portfolio =>     https://yavuzhan.vercel.app
-  -candy-crush =>   https://candy-crush-yobo.vercel.app
-  -gemini-clone =>  https://gemini-clone-yobo.vercel.app
+  -e-commerceBig => https://e-commerce-two-psi-59.vercel.app  <br/>
+  -e-commerce =>    https://minikbey.vercel.app                <br/>
+  -portfolio =>     https://yavuzhan.vercel.app                <br/>
+  -candy-crush =>   https://candy-crush-yobo.vercel.app        <br/>
+  -gemini-clone =>  https://gemini-clone-yobo.vercel.app       <br/>
   -aı project =>    https://kun-ai.vercel.app
 
 ## 🌐 Socials:
