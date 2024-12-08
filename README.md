@@ -7,7 +7,9 @@ Junior Full Stack Developer from TURKEY,<br>-Tech-savvy full-stack developer wit
   -portfolio =>     https://yavuzhan.vercel.app                <br/>
   -candy-crush =>   https://candy-crush-yobo.vercel.app        <br/>
   -gemini-clone =>  https://gemini-clone-yobo.vercel.app       <br/>
-  -aı project =>    https://kun-ai.vercel.app
+  -aı project =>    https://kun-ai.vercel.app                  <br/>
+  - vehicle project => https://www.ozdemirotocekici.com        <br/>
+  - ballons conferance  =>  https://ballons-conferance.vercel.app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yavuzhanis1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yavuzhan-is/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@yavuzhanis) 
