@@ -4,7 +4,7 @@ Junior Full Stack Developer from TURKEY,<br>-Tech-savvy full-stack developer wit
 # Project Links 👨🏻‍💻 : 
   -e-commerceBig => https://e-commerce-two-psi-59.vercel.app  <br/>
   -e-commerce =>    https://minikbey.vercel.app                <br/>
-  -portfolio =>     https://yavuzhan.vercel.app                <br/>
+  -portfolio =>     https://www.yavuzhanis.dev                <br/>
   -candy-crush =>   https://candy-crush-yobo.vercel.app        <br/>
   -gemini-clone =>  https://gemini-clone-yobo.vercel.app       <br/>
   -aı project =>    https://kun-ai.vercel.app                  <br/>
