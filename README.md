@@ -2,15 +2,11 @@
 Junior Full Stack Developer from TURKEY,<br>-Tech-savvy full-stack developer with hands-on experience building a wide range of web and desktop applications <br>as well as robust solutions using intermediate programming languages and tools.<br>-Skilled at designing UI components, applications, and web pages with interactive, <br>user-friendly interfaces using various front-end technologies and React.<br>-Successful freelance career developing and designing small to mid-sized projects to meet diverse client needs globally.<br>-Constantly learning new technologies through online courses and regular coding practice to expand skills.<br>-Capable of managing rich web and client-server applications, website, desktop applications, and databases.	
 
 # Project Links 👨🏻‍💻 : 
-  -e-commerceBig => https://e-commerce-two-psi-59.vercel.app  <br/>
-  -e-commerce =>    https://minikbey.vercel.app                <br/>
   -portfolio =>     https://www.yavuzhanis.dev                <br/>
-  -candy-crush =>   https://candy-crush-yobo.vercel.app        <br/>
-  -gemini-clone =>  https://gemini-clone-yobo.vercel.app       <br/>
   -aı project =>    https://kun-ai.vercel.app                  <br/>
   - vehicle project => https://www.ozdemirotocekici.com        <br/>
-  - ballons conferance  =>  https://ballons-conferance.vercel.app
-  - restaurant management system =>  https://fettucini-one.vercel.app
+  - ballons conferance  =>  http://baloncalistayi.kapadokya.edu.tr
+  - restaurant management system =>  https://.app](https://fettucinicheese.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yavuzhanis1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yavuzhan-is/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@yavuzhanis) 
 
