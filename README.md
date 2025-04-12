@@ -6,7 +6,7 @@ Junior Full Stack Developer from TURKEY,<br>-Tech-savvy full-stack developer wit
   -aı project =>    https://kun-ai.vercel.app                  <br/>
   - vehicle project => https://www.ozdemirotocekici.com        <br/>
   - ballons conferance  =>  http://baloncalistayi.kapadokya.edu.tr
-  - restaurant management system =>  https://.app](https://fettucinicheese.com
+  - restaurant management system =>  https://fettucinicheese.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yavuzhanis1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yavuzhan-is/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@yavuzhanis) 
 
