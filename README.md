@@ -2,7 +2,7 @@
 Junior Full Stack Developer from TURKEY,<br>-Tech-savvy full-stack developer with hands-on experience building a wide range of web and desktop applications <br>as well as robust solutions using intermediate programming languages and tools.<br>-Skilled at designing UI components, applications, and web pages with interactive, <br>user-friendly interfaces using various front-end technologies and React.<br>-Successful freelance career developing and designing small to mid-sized projects to meet diverse client needs globally.<br>-Constantly learning new technologies through online courses and regular coding practice to expand skills.<br>-Capable of managing rich web and client-server applications, website, desktop applications, and databases.	
 
 # Project Links 👨🏻‍💻 : 
-  -portfolio =>     https://www.yavuzhanis.dev                <br/>
+  -portfolio =>     https://www.yavuzhanis.com                <br/>
   -aı project =>    https://kun-ai.vercel.app                  <br/>
   - vehicle project => https://www.ozdemirotocekici.com        <br/>
   - ballons conferance  =>  http://baloncalistayi.kapadokya.edu.tr  <br/>
